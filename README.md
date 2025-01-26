@@ -12,6 +12,11 @@ ___
 |:---:|:---:|
 | **Java** | **Kotlin** |
 
+# 🖥️ Platforms:
+| <img src="https://icon-library.com/images/windows-10-logo-icon/windows-10-logo-icon-0.jpg" width="130"/> | <img src="https://www.freepnglogos.com/uploads/android-logo-png/android-logo-0.png" width="130" /> |
+|:---:|:---:|
+| **Windows** | **Android** |
+
 ___
 # 🧰 Tools:
 | <img src="https://th.bing.com/th/id/R.98865e06d77faca32b3e118df119049e?rik=AU0%2bE0ROLAbnog&riu=http%3a%2f%2flogonoid.com%2fimages%2fintellij-idea-logo.png&ehk=CapqYnZAeX0cbsUWxFNWr913YwdQDC7OFt%2ftIAEb%2fBU%3d&risl=&pid=ImgRaw&r=0" width="80" /> | <img src="https://1.bp.blogspot.com/-LgTa-xDiknI/X4EflN56boI/AAAAAAAAPuk/24YyKnqiGkwRS9-_9suPKkfsAwO4wHYEgCLcBGAsYHQ/s0/image9.png" width="80" /> |
