@@ -13,7 +13,7 @@ ___
 | **Java** | **Kotlin** |
 
 # 🖥️ Platforms:
-| <img src="https://icon-library.com/images/windows-10-logo-icon/windows-10-logo-icon-0.jpg" width="130"/> | <img src="https://www.freepnglogos.com/uploads/android-logo-png/android-logo-0.png" width="130" /> |
+| <img src="https://th.bing.com/th/id/R.d581a2fb2b7356e3865a9b19cae13745?rik=A1JcVMI9lHcv6Q&riu=http%3a%2f%2ftous-logos.com%2fwp-content%2fuploads%2f2017%2f04%2fWindows-logo.png&ehk=lOSPaMRV%2fsutTpJMzjWyeYUyH%2fhfB7ujUSx558wU6Ew%3d&risl=&pid=ImgRaw&r=0" width="100"/> | <img src="https://www.freepnglogos.com/uploads/android-logo-png/android-logo-0.png" width="130" /> |
 |:---:|:---:|
 | **Windows** | **Android** |
 
